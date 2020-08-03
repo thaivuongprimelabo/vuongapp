@@ -1,0 +1,9 @@
+/web/node_modules
+/web/build
+/web/public
+/web/yarn.lock
+/web/.firebase
+
+.firebaserc
+firebase.json
+tailwind.output.css
